@@ -1,4 +1,5 @@
 # Aula2.
 Vin diesel
-tom Cruise
+Jhonny Depp
 jim Carrey
+Dwayne Johnson
